@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.f119d0f5.css",
+    "main.js": "/React-Portfolio/static/js/main.6c8439b2.js",
+    "static/media/smooth-blue-wooden-textured-background.jpg": "/React-Portfolio/static/media/smooth-blue-wooden-textured-background.ffb5528ce38932df02e2.jpg",
+    "static/media/about-me.png": "/React-Portfolio/static/media/about-me.83a2b9ffbad6a4cddbec.png",
+    "static/media/portfolio-1.png": "/React-Portfolio/static/media/portfolio-1.2d2d5223a3b62a90b66d.png",
+    "static/media/portfolio-3.png": "/React-Portfolio/static/media/portfolio-3.104834f3148fe3c59ad6.png",
+    "static/media/portfolio-4.png": "/React-Portfolio/static/media/portfolio-4.a5ca935e7fa88f0b271e.png",
+    "static/media/portfolio-2.png": "/React-Portfolio/static/media/portfolio-2.0757d24cb15f7e56703d.png",
+    "static/media/avatar2.jpg": "/React-Portfolio/static/media/avatar2.caad90e76392c61210bc.jpg",
+    "static/media/portfolio-6.png": "/React-Portfolio/static/media/portfolio-6.74a7d0b205618aa9aea3.png",
+    "static/media/portfolio-5.png": "/React-Portfolio/static/media/portfolio-5.ad8ec81e6e2ebf1c8eed.png",
+    "static/media/avatar1.jpg": "/React-Portfolio/static/media/avatar1.039f8c42256b492039d9.jpg",
+    "static/media/avatar5.jpg": "/React-Portfolio/static/media/avatar5.b5c1bc355e4ccad12e8c.jpg",
+    "static/media/avatar3.jpg": "/React-Portfolio/static/media/avatar3.596ec42ad248552aa52a.jpg",
+    "static/media/avatar4.jpg": "/React-Portfolio/static/media/avatar4.542affbebbc11c180aec.jpg",
+    "static/media/about-me-2.jpg": "/React-Portfolio/static/media/about-me-2.325cd999f67eceb0f341.jpg",
+    "static/media/cv.pdf": "/React-Portfolio/static/media/cv.61d7d548b4f75de159fb.pdf",
+    "index.html": "/React-Portfolio/index.html",
+    "main.f119d0f5.css.map": "/React-Portfolio/static/css/main.f119d0f5.css.map",
+    "main.6c8439b2.js.map": "/React-Portfolio/static/js/main.6c8439b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f119d0f5.css",
+    "static/js/main.6c8439b2.js"
+  ]
+}
